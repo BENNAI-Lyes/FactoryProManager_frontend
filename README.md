@@ -23,8 +23,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the [MIT License].
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, please contact [BENNAI Lyes](bennailyes19@gmail.com).
+For any inquiries or questions, please contact [BENNAI Lyes](mailto:bennailyes19@gmail.com).
